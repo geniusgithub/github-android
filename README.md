@@ -1,4 +1,4 @@
-# GitHub Android App  [![Google Play](http://developer.android.com/images/brand/en_generic_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.github.mobile) [![Build Status](https://travis-ci.org/github/android.png)](https://travis-ci.org/github/android)
+# GitHub Android App  [![Google Play](http://developer.android.com/images/brand/en_generic_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.github.mobile)
 
 GitHub Android app.
 
@@ -6,8 +6,12 @@ GitHub Android app.
   <img src="http://img.skitch.com/20120709-nkdc1yugu2qmdg1ss81m1gr9ty.jpg">
 </a>
 
-Please see the [issues](https://github.com/github/android/issues) section to
-report any bugs or feature requests and to see the list of known issues.
+a github project After finishing(the origin address:[github](https://github.com/github/android))</br>
+You can down the project and add two dependent library
+* [ActionBarSherlock](https://github.com/JakeWharton/ActionBarSherlock)
+* [ViewPagerIndicator](https://github.com/JakeWharton/Android-ViewPagerIndicator)
+now you can run it directly!
+
 
 ## License
 
@@ -20,24 +24,20 @@ Android OS 2.3x and up<br />
 
 
 ## Acknowledgements
-
-This project uses the [GitHub Java API](https://github.com/eclipse/egit-github/tree/master/org.eclipse.egit.github.core)
-built on top of [API v3](http://developer.github.com/).
-
-It also uses many other open source libraries such as:
-
-* [ActionBarSherlock](https://github.com/JakeWharton/ActionBarSherlock)
+It uses open source libraries such as:
+* [ActionBarSherklock](https://github.com/JakeWharton/ActionBarSherlock)
 * [ViewPagerIndicator](https://github.com/JakeWharton/Android-ViewPagerIndicator)
-* [RoboGuice](http://code.google.com/p/roboguice/)
-* [android-maven-plugin](https://github.com/jayway/maven-android-plugin)
-* [CodeMirror](https://github.com/marijnh/CodeMirror)
+* [google-guice](https://code.google.com/p/google-guice/downloads/list)
+* [RoboGuice](https://github.com/roboguice/roboguice)
+* [roboguice-sherlock](https://github.com/rtyley/roboguice-sherlock)
+* [GitHubJava API](https://github.com/eclipse/egit-github/tree/master/org.eclipse.egit.github.core)
+* [http-request](https://github.com/kevinsawicki/http-request)
+* [wishlist](https://github.com/kevinsawicki/wishlist)
+* [google-gson](http://code.google.com/p/google-gson/downloads/list)
 
-These are just a few of the major dependencies, the entire list of dependencies
-is listed in the [app's POM file](https://github.com/github/android/blob/master/app/pom.xml).
 
 ### Links
-csdn blog : [http://blog.csdn.net/geniuseoe2012](http://blog.csdn.net/geniuseoe2012)<br /> 
-
+csdn blog : [http://blog.csdn.net/geniuseoe2012](http://blog.csdn.net/geniuseoe2012)<br/> 
 
 
 ### Development
