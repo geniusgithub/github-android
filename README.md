@@ -9,7 +9,9 @@ GitHub Android app.
 a github project After finishing(the origin address:[github](https://github.com/github/android))</br>
 You can down the project and add two dependent library
 * [ActionBarSherlock](https://github.com/JakeWharton/ActionBarSherlock)
-* [ViewPagerIndicator](https://github.com/JakeWharton/Android-ViewPagerIndicator)</br>
+* [ViewPagerIndicator](https://github.com/JakeWharton/Android-ViewPagerIndicator)
+
+
 now you can run it directly!
 
 
