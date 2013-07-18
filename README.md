@@ -1,13 +1,12 @@
 # GitHub Android App  [![Google Play](http://developer.android.com/images/brand/en_generic_rgb_wo_45.png)](https://play.google.com/store/apps/details?id=com.github.mobile)
 
-GitHub Android app.
+GitHub Android app.fork from [github](https://github.com/github/android)
 
 <a href="https://play.google.com/store/apps/details?id=com.github.mobile" alt="Download from Google Play">
   <img src="http://img.skitch.com/20120709-nkdc1yugu2qmdg1ss81m1gr9ty.jpg">
 </a>
 
-a github project After finishing(the origin address:[github](https://github.com/github/android))</br>
-You can down the project and add two dependent library
+a github project After finishing, You can down the project and add two dependent library
 * [ActionBarSherlock](https://github.com/JakeWharton/ActionBarSherlock)
 * [ViewPagerIndicator](https://github.com/JakeWharton/Android-ViewPagerIndicator)
 
